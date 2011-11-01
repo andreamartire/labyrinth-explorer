@@ -1,17 +1,17 @@
 =Installation Instructions=
 
-Download sources from here:
-# wget http://labyrinth-explorer.googlecode.com/files/labyrinth-explorer.zip
+Download sources from here: <br>
+# wget http://labyrinth-explorer.googlecode.com/files/labyrinth-explorer.zip <br>
 
-Extract it in your directory:
-# unzip labyrinth-explorer.zip -d ~/labyrinth-explorer
+Extract it in your directory: <br>
+# unzip labyrinth-explorer.zip -d ~/labyrinth-explorer <br>
 
-Compile it:
-# cd ~/labyrinth-explorer
-# make
+Compile it: <br>
+# cd ~/labyrinth-explorer <br>
+# make <br>
 
-Start the game:
-# ./labyrinth3rd
+Start the game: <br>
+# ./labyrinth3rd <br>
 
-To import the project from SVN:
-* svn checkout http://labyrinth-explorer.googlecode.com/svn/trunk/ labyrinth-explorer-read-only 
+To import the project from SVN: <br>
+# svn checkout http://labyrinth-explorer.googlecode.com/svn/trunk/ labyrinth-explorer-read-only 
