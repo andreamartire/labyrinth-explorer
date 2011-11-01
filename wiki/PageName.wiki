@@ -4,7 +4,7 @@ Download sources from here: <br>
 # wget http://labyrinth-explorer.googlecode.com/files/Labyrinth%20Explorer.zip <br>
 
 Extract it in your directory: <br>
-# unzip Labyrinth%20Explorer.zip -d ~/labyrinth-explorer <br>
+# unzip Labyrinth\ Explorer.zip -d ~/labyrinth-explorer <br>
 
 Compile it: <br>
 # cd ~/labyrinth-explorer <br>
